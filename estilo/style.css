@@ -65,7 +65,7 @@ flex-direction: column;
   gap: 40px;
 }
 .foto__perfil{
-    width: 50%;
+    width: 30%;
     margin: 50px;
 border: 10px double #22D4FD ;
 border-radius: 2px;
@@ -152,5 +152,8 @@ text-align: center;
         }
       .item__filho{
         width: auto;
+      }
+      .foto__perfil{
+        width: 50%;
       }
      }
